@@ -3,7 +3,7 @@ import {
   rarityColor,
   rarityDescription,
   rarityImageFromItems,
-} from "../..";
+} from "gear-rarity";
 import loot from "../../data/loot.json";
 
 type ItemRarityInfo = {
